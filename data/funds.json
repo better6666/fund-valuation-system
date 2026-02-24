@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-23 11:47:08",
+  "last_updated": "2026-02-24 11:38:43",
   "total_count": 190,
   "success_count": 190,
   "realtime_count": 0,
@@ -7,10 +7,10 @@
     {
       "code": "110020",
       "name": "易方达沪深300ETF联接A",
-      "estimation": -1.25,
-      "net_value": 1.8974,
-      "est_value": 1.8737,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.33,
+      "net_value": 1.8746,
+      "est_value": 1.8995,
+      "update_time": "2026-02-24 11:29",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -18,10 +18,10 @@
     {
       "code": "000961",
       "name": "天弘沪深300指数A",
-      "estimation": -1.25,
-      "net_value": 1.6706,
-      "est_value": 1.6497,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.33,
+      "net_value": 1.6505,
+      "est_value": 1.6725,
+      "update_time": "2026-02-24 11:29",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -29,10 +29,10 @@
     {
       "code": "110003",
       "name": "易方达上证50指数A",
-      "estimation": -1.47,
-      "net_value": 2.1852,
-      "est_value": 2.1531,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.45,
+      "net_value": 2.1497,
+      "est_value": 2.1594,
+      "update_time": "2026-02-24 11:29",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -40,10 +40,10 @@
     {
       "code": "001548",
       "name": "天弘上证50指数A",
-      "estimation": -1.47,
-      "net_value": 1.5407,
-      "est_value": 1.5181,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.46,
+      "net_value": 1.519,
+      "est_value": 1.526,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -51,10 +51,10 @@
     {
       "code": "160119",
       "name": "南方中证500ETF联接A",
-      "estimation": -1.47,
-      "net_value": 2.3539,
-      "est_value": 2.3193,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.57,
+      "net_value": 2.3207,
+      "est_value": 2.3571,
+      "update_time": "2026-02-24 11:29",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -62,10 +62,10 @@
     {
       "code": "110026",
       "name": "易方达创业板ETF联接A",
-      "estimation": -1.57,
-      "net_value": 3.392,
-      "est_value": 3.3387,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.81,
+      "net_value": 3.3423,
+      "est_value": 3.4028,
+      "update_time": "2026-02-24 11:29",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -73,10 +73,10 @@
     {
       "code": "003765",
       "name": "广发创业板ETF联接A",
-      "estimation": -1.57,
-      "net_value": 1.807,
-      "est_value": 1.7786,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.81,
+      "net_value": 1.7792,
+      "est_value": 1.8114,
+      "update_time": "2026-02-24 11:29",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -84,10 +84,10 @@
     {
       "code": "001632",
       "name": "天弘中证500指数A",
-      "estimation": -0.34,
-      "net_value": 2.1022,
-      "est_value": 2.0951,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.52,
+      "net_value": 2.0952,
+      "est_value": 2.0843,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -95,10 +95,10 @@
     {
       "code": "161017",
       "name": "富国中证500指数增强",
-      "estimation": -1.47,
-      "net_value": 2.772,
-      "est_value": 2.7313,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.57,
+      "net_value": 2.735,
+      "est_value": 2.7779,
+      "update_time": "2026-02-24 11:29",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -106,10 +106,10 @@
     {
       "code": "005827",
       "name": "易方达蓝筹精选混合",
-      "estimation": -0.3,
-      "net_value": 1.9188,
-      "est_value": 1.913,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.96,
+      "net_value": 1.908,
+      "est_value": 1.8897,
+      "update_time": "2026-02-24 11:27",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -117,10 +117,10 @@
     {
       "code": "000478",
       "name": "建信中证500指数增强A",
-      "estimation": -1.47,
-      "net_value": 3.6844,
-      "est_value": 3.6302,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.57,
+      "net_value": 3.6389,
+      "est_value": 3.6959,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -128,10 +128,10 @@
     {
       "code": "160706",
       "name": "嘉实沪深300ETF联接A",
-      "estimation": -1.25,
-      "net_value": 1.2017,
-      "est_value": 1.1867,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.33,
+      "net_value": 1.1873,
+      "est_value": 1.2031,
+      "update_time": "2026-02-24 11:29",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -139,10 +139,10 @@
     {
       "code": "519671",
       "name": "银河沪深300价值指数A",
-      "estimation": -1.33,
-      "net_value": 2.051,
-      "est_value": 2.0237,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.02,
+      "net_value": 2.026,
+      "est_value": 2.0467,
+      "update_time": "2026-02-24 11:29",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -150,10 +150,10 @@
     {
       "code": "000311",
       "name": "景顺长城沪深300指数增强",
-      "estimation": -1.25,
-      "net_value": 2.755,
-      "est_value": 2.7206,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.33,
+      "net_value": 2.721,
+      "est_value": 2.7571,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -161,10 +161,10 @@
     {
       "code": "001015",
       "name": "华夏沪深300指数增强A",
-      "estimation": -1.25,
-      "net_value": 2.247,
-      "est_value": 2.2189,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.34,
+      "net_value": 2.222,
+      "est_value": 2.2517,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -172,10 +172,10 @@
     {
       "code": "000051",
       "name": "华夏沪深300ETF联接A",
-      "estimation": -1.25,
-      "net_value": 1.7749,
-      "est_value": 1.7527,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.33,
+      "net_value": 1.7536,
+      "est_value": 1.7769,
+      "update_time": "2026-02-24 11:29",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -183,10 +183,10 @@
     {
       "code": "001550",
       "name": "天弘中证医药100指数A",
-      "estimation": -1.26,
-      "net_value": 0.8026,
-      "est_value": 0.7925,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.43,
+      "net_value": 0.7931,
+      "est_value": 0.7965,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -194,10 +194,10 @@
     {
       "code": "001594",
       "name": "天弘中证银行指数A",
-      "estimation": -0.69,
-      "net_value": 1.7155,
-      "est_value": 1.7037,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.03,
+      "net_value": 1.7041,
+      "est_value": 1.7046,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -205,10 +205,10 @@
     {
       "code": "001595",
       "name": "天弘中证证券保险指数A",
-      "estimation": -0.69,
-      "net_value": 1.676,
-      "est_value": 1.6644,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.03,
+      "net_value": 1.6649,
+      "est_value": 1.6654,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -216,10 +216,10 @@
     {
       "code": "001631",
       "name": "天弘中证食品饮料指数A",
-      "estimation": -0.34,
-      "net_value": 2.1493,
-      "est_value": 2.142,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.51,
+      "net_value": 2.1422,
+      "est_value": 2.1313,
+      "update_time": "2026-02-24 11:29",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -227,10 +227,10 @@
     {
       "code": "001617",
       "name": "天弘中证电子指数A",
-      "estimation": -0.22,
-      "net_value": 2.06,
-      "est_value": 2.0555,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.9,
+      "net_value": 2.0558,
+      "est_value": 2.0949,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -238,10 +238,10 @@
     {
       "code": "001618",
       "name": "天弘中证计算机指数A",
-      "estimation": -0.22,
-      "net_value": 2.0129,
-      "est_value": 2.0085,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.9,
+      "net_value": 2.0087,
+      "est_value": 2.0469,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -249,10 +249,10 @@
     {
       "code": "001592",
       "name": "天弘中证证券指数A",
-      "estimation": -1.57,
-      "net_value": 1.3496,
-      "est_value": 1.3284,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.76,
+      "net_value": 1.3293,
+      "est_value": 1.3527,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -260,10 +260,10 @@
     {
       "code": "001616",
       "name": "天弘中证大宗商品指数A",
-      "estimation": -0.8,
-      "net_value": 3.244,
-      "est_value": 3.2179,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.99,
+      "net_value": 3.22,
+      "est_value": 3.252,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -271,10 +271,10 @@
     {
       "code": "005918",
       "name": "天弘中证科技100指数A",
-      "estimation": -1.25,
-      "net_value": 1.4625,
-      "est_value": 1.4442,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.33,
+      "net_value": 1.4449,
+      "est_value": 1.4641,
+      "update_time": "2026-02-24 11:29",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -282,10 +282,10 @@
     {
       "code": "110011",
       "name": "易方达中小盘混合",
-      "estimation": 0.04,
-      "net_value": 5.3505,
-      "est_value": 5.3528,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -1.73,
+      "net_value": 5.3277,
+      "est_value": 5.2354,
+      "update_time": "2026-02-24 11:29",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -293,10 +293,10 @@
     {
       "code": "006229",
       "name": "易方达成长精选混合A",
-      "estimation": -1.18,
-      "net_value": 1.4212,
-      "est_value": 1.4045,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.72,
+      "net_value": 1.4008,
+      "est_value": 1.3907,
+      "update_time": "2026-02-24 11:29",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -304,10 +304,10 @@
     {
       "code": "163406",
       "name": "兴全合润混合(LOF)",
-      "estimation": -0.43,
-      "net_value": 2.2191,
-      "est_value": 2.2095,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 2.33,
+      "net_value": 2.203,
+      "est_value": 2.2544,
+      "update_time": "2026-02-24 11:29",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -315,10 +315,10 @@
     {
       "code": "163402",
       "name": "兴全趋势投资混合(LOF)",
-      "estimation": -1.25,
-      "net_value": 0.8105,
-      "est_value": 0.8004,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.83,
+      "net_value": 0.8002,
+      "est_value": 0.8148,
+      "update_time": "2026-02-24 11:29",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -326,10 +326,10 @@
     {
       "code": "100032",
       "name": "富国中证红利指数增强A",
-      "estimation": -1.45,
-      "net_value": 1.004,
-      "est_value": 0.9894,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.7,
+      "net_value": 0.989,
+      "est_value": 1.0058,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -337,10 +337,10 @@
     {
       "code": "161033",
       "name": "富国中证智能汽车指数(LOF)A",
-      "estimation": -0.16,
-      "net_value": 2.176,
-      "est_value": 2.1725,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.8,
+      "net_value": 2.172,
+      "est_value": 2.1894,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -348,10 +348,10 @@
     {
       "code": "161028",
       "name": "富国中证新能源汽车指数(LOF)A",
-      "estimation": -0.92,
-      "net_value": 1.193,
-      "est_value": 1.182,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.08,
+      "net_value": 1.182,
+      "est_value": 1.1948,
+      "update_time": "2026-02-24 11:29",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -359,10 +359,10 @@
     {
       "code": "001156",
       "name": "申万菱信新能源汽车主题混合",
-      "estimation": 0.09,
-      "net_value": 2.488,
-      "est_value": 2.4901,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.28,
+      "net_value": 2.502,
+      "est_value": 2.5341,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -370,10 +370,10 @@
     {
       "code": "001410",
       "name": "信达澳银新能源产业股票",
-      "estimation": 0.15,
-      "net_value": 5.618,
-      "est_value": 5.6262,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.92,
+      "net_value": 5.594,
+      "est_value": 5.7015,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -381,10 +381,10 @@
     {
       "code": "001475",
       "name": "易方达国防军工混合",
-      "estimation": 0.53,
-      "net_value": 1.977,
-      "est_value": 1.9875,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.96,
+      "net_value": 1.989,
+      "est_value": 2.0081,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -392,10 +392,10 @@
     {
       "code": "003834",
       "name": "华夏能源革新股票A",
-      "estimation": -2.01,
-      "net_value": 3.526,
-      "est_value": 3.455,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.49,
+      "net_value": 3.446,
+      "est_value": 3.4973,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -403,10 +403,10 @@
     {
       "code": "161024",
       "name": "富国中证军工指数(LOF)A",
-      "estimation": 0.23,
-      "net_value": 1.426,
-      "est_value": 1.4293,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.62,
+      "net_value": 1.429,
+      "est_value": 1.4522,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -414,10 +414,10 @@
     {
       "code": "501057",
       "name": "汇添富中证新能源汽车产业指数(LOF)A",
-      "estimation": -0.91,
-      "net_value": 2.5318,
-      "est_value": 2.5088,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.04,
+      "net_value": 2.5097,
+      "est_value": 2.5358,
+      "update_time": "2026-02-24 11:29",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -425,10 +425,10 @@
     {
       "code": "160225",
       "name": "国泰国证新能源汽车指数(LOF)",
-      "estimation": -1.14,
-      "net_value": 2.0226,
-      "est_value": 1.9995,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.96,
+      "net_value": 2.0005,
+      "est_value": 2.0197,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -436,10 +436,10 @@
     {
       "code": "012733",
       "name": "富国中证芯片产业指数(LOF)A",
-      "estimation": -0.58,
-      "net_value": 1.8481,
-      "est_value": 1.8373,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.23,
+      "net_value": 1.8378,
+      "est_value": 1.8604,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -447,10 +447,10 @@
     {
       "code": "008888",
       "name": "华夏国证半导体芯片ETF联接A",
-      "estimation": 0.02,
-      "net_value": 1.6603,
-      "est_value": 1.6606,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.0,
+      "net_value": 1.6606,
+      "est_value": 1.6772,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -458,10 +458,10 @@
     {
       "code": "007300",
       "name": "国联安中证全指半导体ETF联接A",
-      "estimation": 0.05,
-      "net_value": 3.2262,
-      "est_value": 3.2278,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.0,
+      "net_value": 3.2276,
+      "est_value": 3.2599,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -469,10 +469,10 @@
     {
       "code": "515030",
       "name": "华夏中证新能源汽车ETF",
-      "estimation": -0.92,
-      "net_value": 1.8951,
-      "est_value": 1.8777,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.06,
+      "net_value": 1.8777,
+      "est_value": 1.8976,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -480,10 +480,10 @@
     {
       "code": "515000",
       "name": "华夏中证5G通信主题ETF",
-      "estimation": -0.69,
-      "net_value": 1.0395,
-      "est_value": 1.0323,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 2.52,
+      "net_value": 1.0323,
+      "est_value": 1.0583,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -491,10 +491,10 @@
     {
       "code": "516160",
       "name": "南方中证新能源ETF",
-      "estimation": -2.1,
-      "net_value": 3.1037,
-      "est_value": 3.0385,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.74,
+      "net_value": 3.0388,
+      "est_value": 3.0917,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -502,10 +502,10 @@
     {
       "code": "012850",
       "name": "易方达中证人工智能主题ETF联接A",
-      "estimation": -0.88,
-      "net_value": 1.2022,
-      "est_value": 1.1917,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.84,
+      "net_value": 1.1876,
+      "est_value": 1.2095,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -513,10 +513,10 @@
     {
       "code": "001643",
       "name": "汇丰晋信智造先锋股票A",
-      "estimation": -2.54,
-      "net_value": 3.0344,
-      "est_value": 2.9573,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.96,
+      "net_value": 2.9563,
+      "est_value": 3.0142,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -524,10 +524,10 @@
     {
       "code": "003956",
       "name": "南方教育股票",
-      "estimation": -1.29,
-      "net_value": 2.2394,
-      "est_value": 2.2106,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.97,
+      "net_value": 2.1875,
+      "est_value": 2.2087,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -535,10 +535,10 @@
     {
       "code": "004854",
       "name": "广发中证全指汽车指数A",
-      "estimation": -0.72,
-      "net_value": 1.7851,
-      "est_value": 1.7722,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.92,
+      "net_value": 1.772,
+      "est_value": 1.7883,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -546,10 +546,10 @@
     {
       "code": "005689",
       "name": "中欧科创主题3年封闭运作灵活配置混合",
-      "estimation": -1.17,
-      "net_value": 2.6096,
-      "est_value": 2.5789,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.17,
+      "net_value": 2.5792,
+      "est_value": 2.5748,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -557,10 +557,10 @@
     {
       "code": "006098",
       "name": "华宝券商ETF联接A",
-      "estimation": -1.04,
-      "net_value": 1.6519,
-      "est_value": 1.6347,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.21,
+      "net_value": 1.6358,
+      "est_value": 1.6392,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -568,10 +568,10 @@
     {
       "code": "008281",
       "name": "华夏中证新能源汽车ETF联接A",
-      "estimation": 0.05,
-      "net_value": 2.1085,
-      "est_value": 2.1096,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.12,
+      "net_value": 2.1096,
+      "est_value": 2.1332,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -579,10 +579,10 @@
     {
       "code": "009644",
       "name": "易方达中证海外中国互联网50ETF联接A",
-      "estimation": -1.13,
-      "net_value": 2.1543,
-      "est_value": 2.1299,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 4.16,
+      "net_value": 2.0937,
+      "est_value": 2.1808,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -590,10 +590,10 @@
     {
       "code": "010014",
       "name": "易方达中证人工智能主题ETF联接C",
-      "estimation": -0.17,
-      "net_value": 1.2344,
-      "est_value": 1.2323,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.31,
+      "net_value": 1.2299,
+      "est_value": 1.2337,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -601,10 +601,10 @@
     {
       "code": "011103",
       "name": "汇添富中证新能源汽车产业指数(LOF)C",
-      "estimation": -3.05,
-      "net_value": 0.9473,
-      "est_value": 0.9184,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 2.39,
+      "net_value": 0.9198,
+      "est_value": 0.9418,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -612,10 +612,10 @@
     {
       "code": "012348",
       "name": "华夏中证动漫游戏ETF联接A",
-      "estimation": -0.85,
-      "net_value": 0.7521,
-      "est_value": 0.7457,
-      "update_time": "2026-02-13 16:00",
+      "estimation": -1.88,
+      "net_value": 0.7449,
+      "est_value": 0.7309,
+      "update_time": "2026-02-24 11:32",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -623,10 +623,10 @@
     {
       "code": "013402",
       "name": "华夏中证云计算与大数据主题ETF联接A",
-      "estimation": -0.85,
-      "net_value": 0.9142,
-      "est_value": 0.9064,
-      "update_time": "2026-02-13 16:00",
+      "estimation": -1.88,
+      "net_value": 0.9058,
+      "est_value": 0.8888,
+      "update_time": "2026-02-24 11:32",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -634,10 +634,10 @@
     {
       "code": "159995",
       "name": "华夏国证半导体芯片ETF",
-      "estimation": 0.02,
-      "net_value": 1.935,
-      "est_value": 1.9354,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.0,
+      "net_value": 1.9354,
+      "est_value": 1.9548,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -645,10 +645,10 @@
     {
       "code": "515790",
       "name": "华夏中证动漫游戏ETF",
-      "estimation": -3.05,
-      "net_value": 1.1269,
-      "est_value": 1.0925,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 2.39,
+      "net_value": 1.0926,
+      "est_value": 1.1187,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -656,10 +656,10 @@
     {
       "code": "516110",
       "name": "华夏中证人工智能主题ETF",
-      "estimation": -0.55,
-      "net_value": 1.3828,
-      "est_value": 1.3752,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.62,
+      "net_value": 1.3752,
+      "est_value": 1.3838,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -667,10 +667,10 @@
     {
       "code": "516510",
       "name": "华夏中证云计算与大数据主题ETF",
-      "estimation": -0.92,
-      "net_value": 1.8923,
-      "est_value": 1.8749,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -1.19,
+      "net_value": 1.8749,
+      "est_value": 1.8526,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -678,10 +678,10 @@
     {
       "code": "159806",
       "name": "国泰中证全指通信设备ETF",
-      "estimation": -0.92,
-      "net_value": 0.8267,
-      "est_value": 0.8191,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.06,
+      "net_value": 0.8191,
+      "est_value": 0.8278,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -689,10 +689,10 @@
     {
       "code": "159928",
       "name": "汇添富中证主要消费ETF",
-      "estimation": -0.29,
-      "net_value": 0.7796,
-      "est_value": 0.7773,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.45,
+      "net_value": 0.7773,
+      "est_value": 0.7738,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -700,10 +700,10 @@
     {
       "code": "512480",
       "name": "国联安中证全指半导体产品与设备ETF",
-      "estimation": 0.05,
-      "net_value": 1.6533,
-      "est_value": 1.6541,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.0,
+      "net_value": 1.6541,
+      "est_value": 1.6706,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -711,10 +711,10 @@
     {
       "code": "512760",
       "name": "国泰中证全指通信设备ETF",
-      "estimation": 0.05,
-      "net_value": 1.8137,
-      "est_value": 1.8146,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.12,
+      "net_value": 1.8147,
+      "est_value": 1.835,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -722,10 +722,10 @@
     {
       "code": "159881",
       "name": "易方达中证新能源ETF",
-      "estimation": -3.32,
-      "net_value": 2.1812,
-      "est_value": 2.1088,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 3.41,
+      "net_value": 2.1094,
+      "est_value": 2.1813,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -733,10 +733,10 @@
     {
       "code": "512170",
       "name": "华宝中证医疗ETF",
-      "estimation": -1.73,
-      "net_value": 0.3586,
-      "est_value": 0.3524,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.39,
+      "net_value": 0.3525,
+      "est_value": 0.3539,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -744,10 +744,10 @@
     {
       "code": "512690",
       "name": "鹏华中证酒ETF",
-      "estimation": -0.09,
-      "net_value": 0.5355,
-      "est_value": 0.535,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.99,
+      "net_value": 0.535,
+      "est_value": 0.5297,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -755,10 +755,10 @@
     {
       "code": "512660",
       "name": "国泰中证军工ETF",
-      "estimation": 0.23,
-      "net_value": 1.4766,
-      "est_value": 1.48,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.61,
+      "net_value": 1.4799,
+      "est_value": 1.5038,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -766,10 +766,10 @@
     {
       "code": "512980",
       "name": "广发中证传媒ETF",
-      "estimation": -1.69,
-      "net_value": 1.2337,
-      "est_value": 1.2129,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -2.37,
+      "net_value": 1.2129,
+      "est_value": 1.1842,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -777,10 +777,10 @@
     {
       "code": "161726",
       "name": "招商国证生物医药指数(LOF)A",
-      "estimation": -1.7,
-      "net_value": 0.4068,
+      "estimation": -0.07,
+      "net_value": 0.4002,
       "est_value": 0.3999,
-      "update_time": "2026-02-13 15:00",
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -788,10 +788,10 @@
     {
       "code": "003096",
       "name": "中欧医疗健康混合A",
-      "estimation": -1.42,
-      "net_value": 1.7385,
-      "est_value": 1.7138,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.02,
+      "net_value": 1.7056,
+      "est_value": 1.706,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -799,10 +799,10 @@
     {
       "code": "110023",
       "name": "易方达医疗保健行业混合",
-      "estimation": -1.19,
-      "net_value": 3.958,
-      "est_value": 3.911,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.14,
+      "net_value": 3.893,
+      "est_value": 3.8983,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -810,10 +810,10 @@
     {
       "code": "000220",
       "name": "富国医疗保健行业混合A",
-      "estimation": -1.06,
-      "net_value": 3.165,
-      "est_value": 3.1314,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.49,
+      "net_value": 3.132,
+      "est_value": 3.1168,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -821,10 +821,10 @@
     {
       "code": "001898",
       "name": "易方达大健康主题混合",
-      "estimation": -1.02,
-      "net_value": 2.308,
-      "est_value": 2.2845,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.31,
+      "net_value": 2.278,
+      "est_value": 2.285,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -832,10 +832,10 @@
     {
       "code": "005112",
       "name": "银华中证创新药产业ETF联接A",
-      "estimation": -1.38,
-      "net_value": 1.3265,
-      "est_value": 1.3082,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.18,
+      "net_value": 1.3089,
+      "est_value": 1.3113,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -843,10 +843,10 @@
     {
       "code": "009396",
       "name": "汇添富中证生物科技指数(LOF)A",
-      "estimation": -0.05,
+      "estimation": -0.03,
       "net_value": 1.011,
-      "est_value": 1.0105,
-      "update_time": "2026-02-13 15:00",
+      "est_value": 1.0107,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -854,10 +854,10 @@
     {
       "code": "001717",
       "name": "工银瑞信前沿医疗股票A",
-      "estimation": -1.56,
-      "net_value": 3.133,
-      "est_value": 3.0841,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.81,
+      "net_value": 3.084,
+      "est_value": 3.0591,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -865,10 +865,10 @@
     {
       "code": "006002",
       "name": "工银瑞信医药健康行业股票A",
-      "estimation": -0.99,
-      "net_value": 2.2745,
-      "est_value": 2.2521,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -1.02,
+      "net_value": 2.2506,
+      "est_value": 2.2277,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -876,10 +876,10 @@
     {
       "code": "001645",
       "name": "国泰大健康股票A",
-      "estimation": -0.34,
-      "net_value": 2.318,
-      "est_value": 2.31,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.41,
+      "net_value": 2.314,
+      "est_value": 2.3235,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -887,10 +887,10 @@
     {
       "code": "001915",
       "name": "宝盈医疗健康沪港深股票A",
-      "estimation": -0.81,
-      "net_value": 1.959,
-      "est_value": 1.9432,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.74,
+      "net_value": 1.939,
+      "est_value": 1.9246,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -898,10 +898,10 @@
     {
       "code": "005303",
       "name": "嘉实医药健康股票A",
-      "estimation": -1.59,
-      "net_value": 1.8181,
-      "est_value": 1.7892,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.55,
+      "net_value": 1.7889,
+      "est_value": 1.7791,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -909,10 +909,10 @@
     {
       "code": "001766",
       "name": "上投摩根医疗健康股票A",
-      "estimation": -1.32,
-      "net_value": 1.484,
-      "est_value": 1.4643,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.55,
+      "net_value": 1.4621,
+      "est_value": 1.4541,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -920,10 +920,10 @@
     {
       "code": "004905",
       "name": "华安安康灵活配置混合A",
-      "estimation": -1.23,
-      "net_value": 2.6202,
-      "est_value": 2.5879,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.35,
+      "net_value": 2.5811,
+      "est_value": 2.5721,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -931,10 +931,10 @@
     {
       "code": "005237",
       "name": "银华医疗健康量化股票发起式A",
-      "estimation": -1.31,
-      "net_value": 1.2043,
-      "est_value": 1.1885,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.01,
+      "net_value": 1.1907,
+      "est_value": 1.1908,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -942,10 +942,10 @@
     {
       "code": "001551",
       "name": "天弘中证医药100指数C",
-      "estimation": -1.26,
-      "net_value": 0.7848,
-      "est_value": 0.7749,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.43,
+      "net_value": 0.7754,
+      "est_value": 0.7787,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -953,10 +953,10 @@
     {
       "code": "003095",
       "name": "中欧医疗健康混合C",
-      "estimation": -1.78,
-      "net_value": 1.8241,
-      "est_value": 1.7917,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.28,
+      "net_value": 1.7896,
+      "est_value": 1.7845,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -964,10 +964,10 @@
     {
       "code": "004075",
       "name": "交银施罗德医药创新股票",
-      "estimation": -1.38,
-      "net_value": 2.4167,
-      "est_value": 2.3834,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.36,
+      "net_value": 2.3812,
+      "est_value": 2.3897,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -976,9 +976,9 @@
       "code": "007255",
       "name": "国泰中证生物医药ETF联接A",
       "estimation": 0.02,
-      "net_value": 1.3834,
-      "est_value": 1.3836,
-      "update_time": "2026-02-13 15:00",
+      "net_value": 1.3819,
+      "est_value": 1.3822,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -986,10 +986,10 @@
     {
       "code": "008278",
       "name": "华宝中证医疗ETF联接A",
-      "estimation": 0.16,
-      "net_value": 1.1953,
-      "est_value": 1.1973,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.07,
+      "net_value": 1.1962,
+      "est_value": 1.197,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -997,10 +997,10 @@
     {
       "code": "010387",
       "name": "易方达医药生物股票A",
-      "estimation": -0.89,
-      "net_value": 0.8315,
-      "est_value": 0.8241,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.94,
+      "net_value": 0.823,
+      "est_value": 0.8152,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1008,10 +1008,10 @@
     {
       "code": "011121",
       "name": "汇添富中证生物科技指数(LOF)C",
-      "estimation": -0.89,
-      "net_value": 0.5158,
-      "est_value": 0.5112,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.38,
+      "net_value": 0.5092,
+      "est_value": 0.5162,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1019,10 +1019,10 @@
     {
       "code": "012328",
       "name": "华夏中证创新药产业ETF联接A",
-      "estimation": -2.1,
-      "net_value": 0.788,
-      "est_value": 0.7715,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.74,
+      "net_value": 0.7717,
+      "est_value": 0.7851,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1030,10 +1030,10 @@
     {
       "code": "159938",
       "name": "广发中证全指医药卫生ETF",
-      "estimation": -1.38,
-      "net_value": 0.6655,
-      "est_value": 0.6563,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.18,
+      "net_value": 0.6564,
+      "est_value": 0.6576,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1041,10 +1041,10 @@
     {
       "code": "512010",
       "name": "易方达沪深300医药卫生ETF",
-      "estimation": -1.44,
-      "net_value": 0.388,
-      "est_value": 0.3824,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.08,
+      "net_value": 0.3825,
+      "est_value": 0.3822,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1052,10 +1052,10 @@
     {
       "code": "512120",
       "name": "华安中证细分医药ETF",
-      "estimation": -1.37,
-      "net_value": 0.4655,
-      "est_value": 0.4591,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.23,
+      "net_value": 0.4591,
+      "est_value": 0.458,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1063,10 +1063,10 @@
     {
       "code": "512290",
       "name": "国泰中证生物医药ETF",
-      "estimation": -1.41,
-      "net_value": 1.0195,
-      "est_value": 1.0051,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.21,
+      "net_value": 1.0051,
+      "est_value": 1.0029,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1085,10 +1085,10 @@
     {
       "code": "159929",
       "name": "汇添富中证医药卫生ETF",
-      "estimation": -1.38,
-      "net_value": 1.3724,
-      "est_value": 1.3535,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.21,
+      "net_value": 1.3535,
+      "est_value": 1.3563,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1096,10 +1096,10 @@
     {
       "code": "002190",
       "name": "农银汇理医疗保健股票",
-      "estimation": -1.28,
-      "net_value": 3.1,
-      "est_value": 3.0603,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.18,
+      "net_value": 3.0689,
+      "est_value": 3.105,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1107,10 +1107,10 @@
     {
       "code": "161725",
       "name": "招商中证白酒指数(LOF)A",
-      "estimation": -0.01,
-      "net_value": 0.7035,
-      "est_value": 0.7034,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -1.24,
+      "net_value": 0.7037,
+      "est_value": 0.695,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1118,10 +1118,10 @@
     {
       "code": "160632",
       "name": "鹏华酒指数(LOF)A",
-      "estimation": -0.09,
-      "net_value": 0.3332,
-      "est_value": 0.3329,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.99,
+      "net_value": 0.3329,
+      "est_value": 0.3296,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1129,10 +1129,10 @@
     {
       "code": "000248",
       "name": "汇添富中证主要消费ETF联接A",
-      "estimation": -0.29,
-      "net_value": 2.1243,
-      "est_value": 2.1181,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.45,
+      "net_value": 2.1184,
+      "est_value": 2.1089,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1140,10 +1140,10 @@
     {
       "code": "160222",
       "name": "国泰国证食品饮料行业指数",
-      "estimation": -0.23,
-      "net_value": 0.7714,
-      "est_value": 0.7696,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.66,
+      "net_value": 0.7697,
+      "est_value": 0.7646,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1151,10 +1151,10 @@
     {
       "code": "005235",
       "name": "银华食品饮料量化股票发起式A",
-      "estimation": -0.12,
-      "net_value": 1.6966,
-      "est_value": 1.6945,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.64,
+      "net_value": 1.6916,
+      "est_value": 1.6808,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1162,10 +1162,10 @@
     {
       "code": "001679",
       "name": "前海开源中国稀缺资产混合A",
-      "estimation": -2.57,
-      "net_value": 1.847,
-      "est_value": 1.7995,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 2.15,
+      "net_value": 1.797,
+      "est_value": 1.8357,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1173,10 +1173,10 @@
     {
       "code": "000083",
       "name": "汇添富消费行业混合",
-      "estimation": -0.71,
-      "net_value": 5.087,
-      "est_value": 5.0508,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.1,
+      "net_value": 5.041,
+      "est_value": 5.046,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1184,10 +1184,10 @@
     {
       "code": "001726",
       "name": "汇添富新兴消费股票A",
-      "estimation": -0.7,
-      "net_value": 1.477,
-      "est_value": 1.4666,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.59,
+      "net_value": 1.466,
+      "est_value": 1.4747,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1195,10 +1195,10 @@
     {
       "code": "001644",
       "name": "国泰大农业股票A",
-      "estimation": -2.54,
-      "net_value": 2.884,
-      "est_value": 2.8108,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.96,
+      "net_value": 2.8097,
+      "est_value": 2.8647,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1206,10 +1206,10 @@
     {
       "code": "002560",
       "name": "诺安和鑫灵活配置混合",
-      "estimation": 0.05,
-      "net_value": 2.4317,
-      "est_value": 2.4329,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.38,
+      "net_value": 2.4279,
+      "est_value": 2.4615,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1217,10 +1217,10 @@
     {
       "code": "001102",
       "name": "前海开源国家比较优势混合",
-      "estimation": -2.57,
-      "net_value": 2.298,
-      "est_value": 2.2389,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 2.11,
+      "net_value": 2.236,
+      "est_value": 2.2833,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1228,10 +1228,10 @@
     {
       "code": "002621",
       "name": "中欧消费主题股票A",
-      "estimation": -0.36,
-      "net_value": 1.4439,
-      "est_value": 1.4387,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.54,
+      "net_value": 1.4352,
+      "est_value": 1.4274,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1239,10 +1239,10 @@
     {
       "code": "004851",
       "name": "广发医疗保健股票A",
-      "estimation": -1.02,
-      "net_value": 1.8223,
-      "est_value": 1.8037,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.09,
+      "net_value": 1.7984,
+      "est_value": 1.7968,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1250,10 +1250,10 @@
     {
       "code": "007119",
       "name": "广发科技先锋混合A",
-      "estimation": -0.86,
-      "net_value": 1.9511,
-      "est_value": 1.9343,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.56,
+      "net_value": 1.9307,
+      "est_value": 1.9414,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1261,10 +1261,10 @@
     {
       "code": "008087",
       "name": "华夏中证内地低碳经济主题ETF联接A",
-      "estimation": -1.21,
-      "net_value": 2.224,
-      "est_value": 2.1971,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 4.0,
+      "net_value": 2.1982,
+      "est_value": 2.2861,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1272,10 +1272,10 @@
     {
       "code": "009265",
       "name": "南方优享分红灵活配置混合A",
-      "estimation": -0.92,
-      "net_value": 0.9186,
-      "est_value": 0.9101,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.34,
+      "net_value": 0.9111,
+      "est_value": 0.908,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1283,10 +1283,10 @@
     {
       "code": "159736",
       "name": "嘉实中证稀土产业ETF",
-      "estimation": -0.34,
-      "net_value": 0.6849,
-      "est_value": 0.6826,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.51,
+      "net_value": 0.6825,
+      "est_value": 0.679,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1294,10 +1294,10 @@
     {
       "code": "512200",
       "name": "南方中证全指房地产ETF",
-      "estimation": -0.4,
-      "net_value": 1.5425,
-      "est_value": 1.5363,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.41,
+      "net_value": 1.5362,
+      "est_value": 1.5425,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1305,10 +1305,10 @@
     {
       "code": "512600",
       "name": "嘉实中证主要消费ETF",
-      "estimation": -0.29,
-      "net_value": 0.6642,
-      "est_value": 0.6623,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.45,
+      "net_value": 0.6622,
+      "est_value": 0.6592,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1316,10 +1316,10 @@
     {
       "code": "512800",
       "name": "华宝中证银行ETF",
-      "estimation": -0.69,
-      "net_value": 0.7848,
-      "est_value": 0.7794,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.03,
+      "net_value": 0.7793,
+      "est_value": 0.7795,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1338,10 +1338,10 @@
     {
       "code": "515220",
       "name": "国泰中证煤炭ETF",
-      "estimation": -1.72,
-      "net_value": 1.1646,
-      "est_value": 1.1446,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 3.48,
+      "net_value": 1.1445,
+      "est_value": 1.1843,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1349,10 +1349,10 @@
     {
       "code": "516970",
       "name": "广发中证基建工程ETF",
-      "estimation": -0.91,
-      "net_value": 1.2283,
-      "est_value": 1.2171,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 2.68,
+      "net_value": 1.2171,
+      "est_value": 1.2497,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1360,10 +1360,10 @@
     {
       "code": "159825",
       "name": "德邦中证沪港深高股息ETF",
-      "estimation": -1.24,
-      "net_value": 0.8394,
-      "est_value": 0.829,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.68,
+      "net_value": 0.829,
+      "est_value": 0.8429,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1371,10 +1371,10 @@
     {
       "code": "159869",
       "name": "华泰柏瑞中证红利低波动ETF",
-      "estimation": -0.56,
-      "net_value": 1.634,
-      "est_value": 1.6248,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -4.52,
+      "net_value": 1.6248,
+      "est_value": 1.5514,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1382,10 +1382,10 @@
     {
       "code": "515180",
       "name": "华夏中证全指房地产ETF",
-      "estimation": -1.45,
-      "net_value": 1.4344,
-      "est_value": 1.4136,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.7,
+      "net_value": 1.4136,
+      "est_value": 1.4376,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1393,10 +1393,10 @@
     {
       "code": "515650",
       "name": "富国中证消费50ETF",
-      "estimation": -0.41,
-      "net_value": 1.1782,
-      "est_value": 1.1734,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.43,
+      "net_value": 1.1734,
+      "est_value": 1.1684,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1404,10 +1404,10 @@
     {
       "code": "516670",
       "name": "招商中证白酒ETF",
-      "estimation": -0.92,
-      "net_value": 0.6948,
-      "est_value": 0.6884,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.87,
+      "net_value": 0.6884,
+      "est_value": 0.6944,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1415,10 +1415,10 @@
     {
       "code": "512580",
       "name": "广发中证环保产业ETF",
-      "estimation": -1.89,
-      "net_value": 1.3602,
-      "est_value": 1.3345,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.42,
+      "net_value": 1.3347,
+      "est_value": 1.3537,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1426,10 +1426,10 @@
     {
       "code": "161121",
       "name": "易方达银行指数(LOF)A",
-      "estimation": -0.69,
-      "net_value": 1.5693,
-      "est_value": 1.5585,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.03,
+      "net_value": 1.5591,
+      "est_value": 1.5596,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1437,10 +1437,10 @@
     {
       "code": "160628",
       "name": "鹏华地产指数(LOF)A",
-      "estimation": -0.37,
-      "net_value": 0.6342,
-      "est_value": 0.6319,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.18,
+      "net_value": 0.6319,
+      "est_value": 0.6308,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1448,10 +1448,10 @@
     {
       "code": "160625",
       "name": "鹏华证券保险指数(LOF)A",
-      "estimation": -1.21,
-      "net_value": 0.9423,
-      "est_value": 0.9309,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.13,
+      "net_value": 0.9315,
+      "est_value": 0.9303,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1459,10 +1459,10 @@
     {
       "code": "512000",
       "name": "华宝中证全指证券公司ETF",
-      "estimation": -1.04,
-      "net_value": 0.5661,
-      "est_value": 0.5602,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.21,
+      "net_value": 0.5603,
+      "est_value": 0.5615,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1470,10 +1470,10 @@
     {
       "code": "160218",
       "name": "国泰国证房地产行业指数",
-      "estimation": -0.45,
-      "net_value": 0.7145,
-      "est_value": 0.7113,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.52,
+      "net_value": 0.7114,
+      "est_value": 0.7151,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1492,10 +1492,10 @@
     {
       "code": "007531",
       "name": "易方达中证银行ETF联接A",
-      "estimation": -1.04,
-      "net_value": 1.6089,
-      "est_value": 1.5922,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.21,
+      "net_value": 1.5932,
+      "est_value": 1.5965,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1503,10 +1503,10 @@
     {
       "code": "008279",
       "name": "华宝中证银行ETF联接A",
-      "estimation": -1.72,
-      "net_value": 2.154,
-      "est_value": 2.117,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 3.48,
+      "net_value": 2.1182,
+      "est_value": 2.1919,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1514,10 +1514,10 @@
     {
       "code": "009612",
       "name": "华宝中证全指证券公司ETF联接A",
-      "estimation": -0.62,
-      "net_value": 1.2111,
-      "est_value": 1.2036,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.89,
+      "net_value": 1.2034,
+      "est_value": 1.2142,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1525,10 +1525,10 @@
     {
       "code": "512070",
       "name": "易方达沪深300非银ETF",
-      "estimation": -1.27,
-      "net_value": 0.9053,
-      "est_value": 0.8938,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.3,
+      "net_value": 0.8937,
+      "est_value": 0.891,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1536,10 +1536,10 @@
     {
       "code": "512640",
       "name": "嘉实中证金融地产ETF",
-      "estimation": -0.96,
-      "net_value": 2.457,
-      "est_value": 2.4334,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.05,
+      "net_value": 2.4336,
+      "est_value": 2.4324,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1547,10 +1547,10 @@
     {
       "code": "515560",
       "name": "易方达中证银行ETF",
-      "estimation": -1.04,
-      "net_value": 1.0847,
-      "est_value": 1.0734,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.21,
+      "net_value": 1.0736,
+      "est_value": 1.0759,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1558,10 +1558,10 @@
     {
       "code": "515900",
       "name": "华夏中证全指证券公司ETF",
-      "estimation": -1.73,
-      "net_value": 1.7381,
-      "est_value": 1.708,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 2.92,
+      "net_value": 1.7084,
+      "est_value": 1.7583,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1569,10 +1569,10 @@
     {
       "code": "159940",
       "name": "广发中证全指金融地产ETF",
-      "estimation": -0.96,
-      "net_value": 1.2609,
-      "est_value": 1.2488,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.02,
+      "net_value": 1.2488,
+      "est_value": 1.2486,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1580,10 +1580,10 @@
     {
       "code": "512400",
       "name": "南方中证申万有色金属ETF",
-      "estimation": -3.53,
-      "net_value": 2.2699,
-      "est_value": 2.1898,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 3.31,
+      "net_value": 2.1897,
+      "est_value": 2.2622,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1591,10 +1591,10 @@
     {
       "code": "510230",
       "name": "国泰上证180金融ETF",
-      "estimation": -0.98,
-      "net_value": 1.3586,
-      "est_value": 1.3453,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.17,
+      "net_value": 1.3453,
+      "est_value": 1.343,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1602,10 +1602,10 @@
     {
       "code": "160620",
       "name": "鹏华中证A股资源产业指数(LOF)",
-      "estimation": -3.05,
-      "net_value": 3.1981,
-      "est_value": 3.1006,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 3.93,
+      "net_value": 3.1056,
+      "est_value": 3.2277,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1635,10 +1635,10 @@
     {
       "code": "004856",
       "name": "广发中证全指原材料ETF联接A",
-      "estimation": -2.6,
-      "net_value": 1.0821,
-      "est_value": 1.054,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.44,
+      "net_value": 1.056,
+      "est_value": 1.0712,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1657,10 +1657,10 @@
     {
       "code": "159876",
       "name": "博时有色金属ETF",
-      "estimation": -3.32,
-      "net_value": 1.1695,
-      "est_value": 1.1307,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 3.41,
+      "net_value": 1.1309,
+      "est_value": 1.1695,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1668,10 +1668,10 @@
     {
       "code": "515700",
       "name": "国泰中证钢铁ETF",
-      "estimation": -0.91,
-      "net_value": 2.5377,
-      "est_value": 2.5146,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.03,
+      "net_value": 2.5146,
+      "est_value": 2.5405,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1679,10 +1679,10 @@
     {
       "code": "516780",
       "name": "华宝中证有色金属ETF",
-      "estimation": -2.79,
-      "net_value": 2.0562,
-      "est_value": 1.9988,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.91,
+      "net_value": 1.9992,
+      "est_value": 2.0373,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1690,10 +1690,10 @@
     {
       "code": "516850",
       "name": "华夏中证新能源ETF",
-      "estimation": -2.1,
-      "net_value": 1.1377,
-      "est_value": 1.1138,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 1.74,
+      "net_value": 1.114,
+      "est_value": 1.1334,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1701,10 +1701,10 @@
     {
       "code": "159755",
       "name": "国泰中证钢铁ETF",
-      "estimation": -1.3,
-      "net_value": 1.1011,
-      "est_value": 1.0868,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.96,
+      "net_value": 1.0869,
+      "est_value": 1.0973,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1712,10 +1712,10 @@
     {
       "code": "000217",
       "name": "华安黄金易ETF联接A",
-      "estimation": -1.21,
-      "net_value": 3.7956,
-      "est_value": 3.7496,
-      "update_time": "2026-02-13 15:30",
+      "estimation": 3.74,
+      "net_value": 3.7482,
+      "est_value": 3.8884,
+      "update_time": "2026-02-24 11:36",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1723,10 +1723,10 @@
     {
       "code": "518880",
       "name": "华安黄金易ETF",
-      "estimation": -1.21,
-      "net_value": 10.7173,
-      "est_value": 10.5875,
-      "update_time": "2026-02-13 15:30",
+      "estimation": 3.74,
+      "net_value": 10.5872,
+      "est_value": 10.9831,
+      "update_time": "2026-02-24 11:36",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1734,10 +1734,10 @@
     {
       "code": "518800",
       "name": "国泰黄金ETF",
-      "estimation": -1.21,
-      "net_value": 10.5875,
-      "est_value": 10.4592,
-      "update_time": "2026-02-13 15:30",
+      "estimation": 3.74,
+      "net_value": 10.459,
+      "est_value": 10.8501,
+      "update_time": "2026-02-24 11:36",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1745,10 +1745,10 @@
     {
       "code": "159937",
       "name": "博时黄金ETF",
-      "estimation": -1.21,
-      "net_value": 10.6931,
-      "est_value": 10.5635,
-      "update_time": "2026-02-13 15:30",
+      "estimation": 3.74,
+      "net_value": 10.5636,
+      "est_value": 10.9586,
+      "update_time": "2026-02-24 11:36",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1756,10 +1756,10 @@
     {
       "code": "159934",
       "name": "易方达黄金ETF",
-      "estimation": -1.21,
-      "net_value": 11.196,
-      "est_value": 11.0604,
-      "update_time": "2026-02-13 15:30",
+      "estimation": 3.74,
+      "net_value": 11.0601,
+      "est_value": 11.4737,
+      "update_time": "2026-02-24 11:36",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1767,10 +1767,10 @@
     {
       "code": "004253",
       "name": "国泰黄金ETF联接A",
-      "estimation": -1.21,
-      "net_value": 3.9766,
-      "est_value": 3.9284,
-      "update_time": "2026-02-13 15:30",
+      "estimation": 3.74,
+      "net_value": 3.9273,
+      "est_value": 4.0742,
+      "update_time": "2026-02-24 11:36",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1778,10 +1778,10 @@
     {
       "code": "002610",
       "name": "博时黄金ETF联接A",
-      "estimation": -1.21,
-      "net_value": 3.653,
-      "est_value": 3.6087,
-      "update_time": "2026-02-13 15:30",
+      "estimation": 3.74,
+      "net_value": 3.6086,
+      "est_value": 3.7435,
+      "update_time": "2026-02-24 11:36",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1789,10 +1789,10 @@
     {
       "code": "002611",
       "name": "博时黄金ETF联接C",
-      "estimation": -1.21,
-      "net_value": 3.5275,
-      "est_value": 3.4848,
-      "update_time": "2026-02-13 15:30",
+      "estimation": 3.74,
+      "net_value": 3.4845,
+      "est_value": 3.6148,
+      "update_time": "2026-02-24 11:36",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1811,10 +1811,10 @@
     {
       "code": "159812",
       "name": "易方达黄金ETF",
-      "estimation": -1.21,
-      "net_value": 10.6756,
-      "est_value": 10.5463,
-      "update_time": "2026-02-13 15:30",
+      "estimation": 3.74,
+      "net_value": 10.546,
+      "est_value": 10.9404,
+      "update_time": "2026-02-24 11:37",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1833,10 +1833,10 @@
     {
       "code": "040046",
       "name": "华安纳斯达克100指数(QDII)",
-      "estimation": 0.82,
+      "estimation": -1.15,
       "net_value": 7.079,
-      "est_value": 7.1374,
-      "update_time": "2026-02-21 05:00",
+      "est_value": 6.9974,
+      "update_time": "2026-02-24 05:00",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1844,10 +1844,10 @@
     {
       "code": "161125",
       "name": "易方达标普500指数(QDII-LOF)A",
-      "estimation": 0.39,
+      "estimation": -1.48,
       "net_value": 2.8823,
-      "est_value": 2.8937,
-      "update_time": "2026-02-21 05:00",
+      "est_value": 2.8396,
+      "update_time": "2026-02-24 05:00",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1855,10 +1855,10 @@
     {
       "code": "270042",
       "name": "广发纳斯达克100指数A(QDII)",
-      "estimation": 0.82,
+      "estimation": -1.15,
       "net_value": 7.0636,
-      "est_value": 7.1219,
-      "update_time": "2026-02-21 05:00",
+      "est_value": 6.9821,
+      "update_time": "2026-02-24 05:00",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1877,10 +1877,10 @@
     {
       "code": "000055",
       "name": "广发纳斯达克100指数A(QDII)",
-      "estimation": 0.82,
+      "estimation": -1.15,
       "net_value": 1.017,
-      "est_value": 1.0254,
-      "update_time": "2026-02-21 05:00",
+      "est_value": 1.0053,
+      "update_time": "2026-02-24 05:00",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1888,10 +1888,10 @@
     {
       "code": "000369",
       "name": "广发全球医疗保健(QDII)",
-      "estimation": 0.3,
+      "estimation": -1.13,
       "net_value": 2.572,
-      "est_value": 2.5797,
-      "update_time": "2026-02-21 05:00",
+      "est_value": 2.5429,
+      "update_time": "2026-02-24 05:00",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1899,10 +1899,10 @@
     {
       "code": "001668",
       "name": "汇添富全球互联混合(QDII)",
-      "estimation": 0.41,
+      "estimation": -1.55,
       "net_value": 4.3882,
-      "est_value": 4.4063,
-      "update_time": "2026-02-21 05:00",
+      "est_value": 4.3203,
+      "update_time": "2026-02-24 05:00",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1910,10 +1910,10 @@
     {
       "code": "002423",
       "name": "华宝香港中小A(QDII-LOF)",
-      "estimation": 0.44,
+      "estimation": -1.67,
       "net_value": 0.421,
-      "est_value": 0.4229,
-      "update_time": "2026-02-21 05:00",
+      "est_value": 0.414,
+      "update_time": "2026-02-24 05:00",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1943,10 +1943,10 @@
     {
       "code": "006479",
       "name": "广发纳斯达克生物科技指数(QDII)",
-      "estimation": 0.82,
+      "estimation": -1.15,
       "net_value": 6.9468,
-      "est_value": 7.0041,
-      "update_time": "2026-02-21 05:00",
+      "est_value": 6.8667,
+      "update_time": "2026-02-24 05:00",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1954,10 +1954,10 @@
     {
       "code": "007844",
       "name": "华夏恒生互联网科技业ETF(QDII)联接A",
-      "estimation": 0.44,
+      "estimation": -1.64,
       "net_value": 0.7693,
-      "est_value": 0.7727,
-      "update_time": "2026-02-21 05:00",
+      "est_value": 0.7567,
+      "update_time": "2026-02-24 05:00",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1965,10 +1965,10 @@
     {
       "code": "008975",
       "name": "嘉实全球互联网股票(QDII)",
-      "estimation": -0.41,
-      "net_value": 1.2591,
-      "est_value": 1.2539,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.43,
+      "net_value": 1.2542,
+      "est_value": 1.2488,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1976,10 +1976,10 @@
     {
       "code": "010393",
       "name": "易方达标普信息科技指数(QDII-LOF)A",
-      "estimation": -1.01,
-      "net_value": 0.8446,
-      "est_value": 0.8361,
-      "update_time": "2026-02-13 15:00",
+      "estimation": -0.93,
+      "net_value": 0.8357,
+      "est_value": 0.8279,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1987,10 +1987,10 @@
     {
       "code": "011612",
       "name": "易方达中证海外中国互联网50ETF联接C",
-      "estimation": -0.72,
-      "net_value": 1.179,
-      "est_value": 1.1705,
-      "update_time": "2026-02-13 15:00",
+      "estimation": 0.34,
+      "net_value": 1.1709,
+      "est_value": 1.1749,
+      "update_time": "2026-02-24 11:30",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1998,10 +1998,10 @@
     {
       "code": "012868",
       "name": "华夏恒生科技ETF(QDII)联接A",
-      "estimation": 0.41,
+      "estimation": -1.53,
       "net_value": 5.4072,
-      "est_value": 5.4292,
-      "update_time": "2026-02-21 05:00",
+      "est_value": 5.3245,
+      "update_time": "2026-02-24 05:00",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -2031,10 +2031,10 @@
     {
       "code": "513100",
       "name": "国泰纳斯达克100ETF",
-      "estimation": 0.82,
+      "estimation": -1.15,
       "net_value": 1.7131,
-      "est_value": 1.7272,
-      "update_time": "2026-02-21 05:00",
+      "est_value": 1.6933,
+      "update_time": "2026-02-24 05:00",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -2042,10 +2042,10 @@
     {
       "code": "513330",
       "name": "华夏恒生科技ETF(QDII)",
-      "estimation": -1.09,
-      "net_value": 0.5028,
-      "est_value": 0.4973,
-      "update_time": "2026-02-13 16:00",
+      "estimation": -2.95,
+      "net_value": 0.4965,
+      "est_value": 0.4819,
+      "update_time": "2026-02-24 11:37",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -2064,10 +2064,10 @@
     {
       "code": "159941",
       "name": "广发纳斯达克100ETF",
-      "estimation": 0.82,
+      "estimation": -1.15,
       "net_value": 1.287,
-      "est_value": 1.2976,
-      "update_time": "2026-02-21 05:00",
+      "est_value": 1.2722,
+      "update_time": "2026-02-24 05:00",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -2075,10 +2075,10 @@
     {
       "code": "513500",
       "name": "博时标普500ETF(QDII)",
-      "estimation": 0.45,
+      "estimation": -1.68,
       "net_value": 2.241,
-      "est_value": 2.251,
-      "update_time": "2026-02-21 05:00",
+      "est_value": 2.2033,
+      "update_time": "2026-02-24 05:00",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
