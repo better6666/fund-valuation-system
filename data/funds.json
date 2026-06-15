@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15 20:53:56",
+  "last_updated": "2026-06-15 21:23:02",
   "total_count": 190,
   "success_count": 190,
   "realtime_count": 0,
@@ -1712,10 +1712,10 @@
     {
       "code": "000217",
       "name": "华安黄金易ETF联接A",
-      "estimation": 0.8,
+      "estimation": 0.91,
       "net_value": 3.1592,
-      "est_value": 3.1844,
-      "update_time": "2026-06-15 20:50",
+      "est_value": 3.1878,
+      "update_time": "2026-06-15 21:20",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1723,10 +1723,10 @@
     {
       "code": "518880",
       "name": "华安黄金易ETF",
-      "estimation": 0.76,
+      "estimation": 0.91,
       "net_value": 8.9319,
-      "est_value": 8.9994,
-      "update_time": "2026-06-15 20:52",
+      "est_value": 9.0128,
+      "update_time": "2026-06-15 21:20",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1734,10 +1734,10 @@
     {
       "code": "518800",
       "name": "国泰黄金ETF",
-      "estimation": 0.76,
+      "estimation": 0.91,
       "net_value": 9.0644,
-      "est_value": 9.133,
-      "update_time": "2026-06-15 20:52",
+      "est_value": 9.1465,
+      "update_time": "2026-06-15 21:20",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1745,10 +1745,10 @@
     {
       "code": "159937",
       "name": "博时黄金ETF",
-      "estimation": 0.8,
+      "estimation": 0.69,
       "net_value": 8.9108,
-      "est_value": 8.982,
-      "update_time": "2026-06-15 20:50",
+      "est_value": 8.9725,
+      "update_time": "2026-06-15 21:20",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1756,10 +1756,10 @@
     {
       "code": "159934",
       "name": "易方达黄金ETF",
-      "estimation": 0.8,
+      "estimation": 0.69,
       "net_value": 9.3311,
-      "est_value": 9.4056,
-      "update_time": "2026-06-15 20:50",
+      "est_value": 9.3957,
+      "update_time": "2026-06-15 21:20",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1767,10 +1767,10 @@
     {
       "code": "004253",
       "name": "国泰黄金ETF联接A",
-      "estimation": 0.76,
+      "estimation": 0.69,
       "net_value": 3.2051,
-      "est_value": 3.2293,
-      "update_time": "2026-06-15 20:52",
+      "est_value": 3.2273,
+      "update_time": "2026-06-15 21:20",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1778,10 +1778,10 @@
     {
       "code": "002610",
       "name": "博时黄金ETF联接A",
-      "estimation": 0.8,
+      "estimation": 0.91,
       "net_value": 3.0547,
-      "est_value": 3.0791,
-      "update_time": "2026-06-15 20:50",
+      "est_value": 3.0824,
+      "update_time": "2026-06-15 21:20",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1789,10 +1789,10 @@
     {
       "code": "002611",
       "name": "博时黄金ETF联接C",
-      "estimation": 0.76,
+      "estimation": 0.69,
       "net_value": 2.9463,
-      "est_value": 2.9686,
-      "update_time": "2026-06-15 20:52",
+      "est_value": 2.9667,
+      "update_time": "2026-06-15 21:20",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
@@ -1811,10 +1811,10 @@
     {
       "code": "159812",
       "name": "易方达黄金ETF",
-      "estimation": 0.76,
+      "estimation": 0.69,
       "net_value": 8.6126,
-      "est_value": 8.6777,
-      "update_time": "2026-06-15 20:52",
+      "est_value": 8.6722,
+      "update_time": "2026-06-15 21:20",
       "data_source": "天天基金实时",
       "holdings": [],
       "success": true
